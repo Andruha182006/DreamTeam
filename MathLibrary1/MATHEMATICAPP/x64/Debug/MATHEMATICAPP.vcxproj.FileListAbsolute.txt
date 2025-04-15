@@ -1,0 +1,3 @@
+C:\Users\Exartym2006\source\repos\MathLibrary1\MATHEMATICAPP\x64\Debug\MATHEMATICAPP.vcxproj.AssemblyReference.cache
+C:\Users\Exartym2006\source\repos\MathLibrary1\MATHEMATICAPP\x64\Debug\MATHEMATICAPP.MyForm1.resources
+C:\Users\Exartym2006\source\repos\MathLibrary1\MATHEMATICAPP\x64\Debug\MATHEMATICAPP.vcxproj.GenerateResource.cache

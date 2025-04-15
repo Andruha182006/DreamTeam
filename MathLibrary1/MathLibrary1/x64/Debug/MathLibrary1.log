@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+  Generating Code...
+C:\Users\Exartym2006\source\repos\MathLibrary1\MathLibrary1\MathLibrary.cpp(6,5): warning C4273: 'Factorial': inconsistent dll linkage
+  (compiling source file '/MathLibrary.cpp')
+      C:\Users\Exartym2006\source\repos\MathLibrary1\MathLibrary1\MathLibrary1.h(10,25):
+      see previous definition of 'Factorial'
+  
+C:\Users\Exartym2006\source\repos\MathLibrary1\MathLibrary1\MathLibrary.cpp(15,8): warning C4273: 'CosTaylor': inconsistent dll linkage
+  (compiling source file '/MathLibrary.cpp')
+      C:\Users\Exartym2006\source\repos\MathLibrary1\MathLibrary1\MathLibrary1.h(11,28):
+      see previous definition of 'CosTaylor'
+  
+C:\Users\Exartym2006\source\repos\MathLibrary1\MathLibrary1\MathLibrary.cpp(26,8): warning C4273: 'TriangleArea': inconsistent dll linkage
+  (compiling source file '/MathLibrary.cpp')
+      C:\Users\Exartym2006\source\repos\MathLibrary1\MathLibrary1\MathLibrary1.h(12,28):
+      see previous definition of 'TriangleArea'
+  
+     Creating library C:\Users\Exartym2006\source\repos\MathLibrary1\x64\Debug\MathLibrary1.lib and object C:\Users\Exartym2006\source\repos\MathLibrary1\x64\Debug\MathLibrary1.exp
+  MathLibrary1.vcxproj -> C:\Users\Exartym2006\source\repos\MathLibrary1\x64\Debug\MathLibrary1.dll
